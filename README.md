@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Rupeshsharma12
-- 👀 I’m interested in Full Stack Web Development using (HTML,CSS, Java Script) Frontend PHP for Backend and MySQL for DBMS. 
-- 🌱 I’m currently learning MEAN and MERN Stack
+- Hi Everyone, I’m @Rupeshsharma12.
+- I’m currently learning Data Str and Algo using C and C++ in My Computer Class .
+- I’m interested in Full Stack Web Development using (HTML,CSS, Java Script) Frontend, PHP for Backend and MySQL for DBMS.
+- I will Learn Machine Learning , AI, Deep Learning , Computer Vision and NLP using Python.
+- Also Eager to learn MEAN Stack and MERN Stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
